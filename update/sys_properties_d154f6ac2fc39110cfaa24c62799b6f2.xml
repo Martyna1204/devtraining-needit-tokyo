@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices>Blue=0000FF,  Red=FF0000,  Green=00FF00</choices>
+        <description>Type a brief, descriptive phrase describing the function of the property.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.glide.businessrule.async_condition_check, to true</name>
+        <read_roles/>
+        <suffix>glide.businessrule.async_condition_check, to true</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-05 21:30:17</sys_created_on>
+        <sys_id>d154f6ac2fc39110cfaa24c62799b6f2</sys_id>
+        <sys_name>x_58872_needit.glide.businessrule.async_condition_check, to true</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_d154f6ac2fc39110cfaa24c62799b6f2</sys_update_name>
+        <type>boolean</type>
+        <value>gs.getProperty()</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=d154f6ac2fc39110cfaa24c62799b6f2"/>
+</record_update>
