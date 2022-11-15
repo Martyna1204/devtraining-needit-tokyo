@@ -42,6 +42,48 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-11-03 21:37:09</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-15 12:09:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1841cb32fc71910cfaa24c62799b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">04632cc42f431110cfaa24c62799b62d</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">2d841cb32fc71910cfaa24c62799b604</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-15 12:09:29</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-15 12:09:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79841cb32fc71910cfaa24c62799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">04632cc42f431110cfaa24c62799b62d</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">25841cb32fc71910cfaa24c62799b606</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-15 12:09:30</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-15 12:09:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d841cb32fc71910cfaa24c62799b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">04632cc42f431110cfaa24c62799b62d</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_58872_needit_needit" sys_domain="global" view="Default view">ad841cb32fc71910cfaa24c62799b606</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-15 12:09:30</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit</name>
             <roles/>
@@ -53,9 +95,9 @@
             <sys_id>04632cc42f431110cfaa24c62799b62d</sys_id>
             <sys_name>x_58872_needit_needit</sys_name>
             <sys_overrides/>
-            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_package display_value="Needit" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
-            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_scope display_value="Needit">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_ui_form_sections_04632cc42f431110cfaa24c62799b62d</sys_update_name>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
