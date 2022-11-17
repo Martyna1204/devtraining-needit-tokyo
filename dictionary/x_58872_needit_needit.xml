@@ -2,6 +2,14 @@
     <element audit="true" db_object_id="9a72ebaf2fba9110cfaa24c62799b6e7" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
         <element label="when needed" max_length="40" name="new_field_1" type="integer"/>
         <element label="new field 2" max_length="40" name="new_field_2" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Work in Progress" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Closed Incomplete" sequence="3" value="4"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Request type" mandatory="true" max_length="40" name="u_choice_4" type="string">
             <choice>
                 <element inactive_on_update="false" label="Human Resources" sequence="0" value="hr"/>
